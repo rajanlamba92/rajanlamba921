@@ -67,6 +67,5 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Credits: Rajan Lamba
 
-Last Edited on: 04/09/2021
